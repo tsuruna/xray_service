@@ -1,0 +1,5 @@
+Flask
+pipenv
+reportportal-client
+requests
+Werkzeug
